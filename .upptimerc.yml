@@ -6,9 +6,6 @@ sites:
   - name: Prokop.me
     url: https://prokop.me/
     __dangerous__insecure: true
-  - name: Ombi
-    url: https://ombi.prokop.me/ombi/login
-    __dangerous__insecure: true
   - name: Simi Plex
     check: "tcp-ping"
     url: simi.prokop.me
