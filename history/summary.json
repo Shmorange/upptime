@@ -4,7 +4,7 @@
     "url": "https://prokop.me/",
     "icon": "https://favicons.githubusercontent.com/prokop.me",
     "slug": "prokop-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
@@ -16,6 +16,7 @@
     "timeMonth": 335,
     "timeYear": 438,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-06-17": 20,
       "2022-03-05": 256,
       "2022-03-04": 8,
