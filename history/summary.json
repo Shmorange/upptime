@@ -4,11 +4,11 @@
     "url": "https://prokop.me/",
     "icon": "https://favicons.githubusercontent.com/prokop.me",
     "slug": "prokop-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.60%",
     "time": 436,
     "timeDay": 358,
@@ -16,6 +16,7 @@
     "timeMonth": 340,
     "timeYear": 436,
     "dailyMinutesDown": {
+      "2022-06-26": 3,
       "2022-06-21": 48,
       "2022-06-17": 20,
       "2022-03-05": 256,
@@ -29,10 +30,10 @@
     "url": "simi.prokop.me",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "simi-plex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 49,
@@ -40,7 +41,9 @@
     "timeWeek": 59,
     "timeMonth": 55,
     "timeYear": 49,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-26": 1
+    }
   },
   {
     "name": "Sacto Plex",
@@ -65,7 +68,7 @@
     "url": "simi.prokop.me",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "simi-vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -76,6 +79,8 @@
     "timeWeek": 53,
     "timeMonth": 49,
     "timeYear": 41,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-26": 0
+    }
   }
 ]
